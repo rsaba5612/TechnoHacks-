@@ -1,3 +1,2 @@
- #TechnoHacks EduTech 
- # Mr. Sandip Gavit
+ #TechnoHacks EduTech  # Mr. Sandip Gavit
  
